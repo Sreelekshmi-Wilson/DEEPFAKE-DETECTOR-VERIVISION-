@@ -1,6 +1,5 @@
 ### **Basic Details**
 
-* **Team Name:** [Insert Your Team Name]
 * **Team Members:** Member 1: **Sreelekshmi Wilson** - ADI SHANKARA INSTITUTE OF ENGINEERING AND TECHNOLOGY
 * **Project Description:** VeriVision is a real-time deepfake detection tool that uses mathematical edge analysis to distinguish between live human subjects and AI-generated or static media.
 
